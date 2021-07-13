@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @shitalbk
-- 👀 I’m interested in Front End & Full Stack Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m SHITAL BK
+- 👀 Front End & Full Stack Developer
+- 📫 Reach me out via my email address shitalbk36@gmail.com
 
 <!---
 shitalbk/shitalbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
