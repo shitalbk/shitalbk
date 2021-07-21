@@ -2,6 +2,7 @@
 - 👀 Front End & Full Stack Developer 
 - 📫 Reach me out via my email address shitalbk36@gmail.com
 - :atom_symbol: Currently creating projects using React...
+- :mag: Find me on LinkedIn https://www.linkedin.com/in/shital-bk/
 
 
 <!---
